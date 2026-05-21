@@ -56,7 +56,7 @@ const Page = () => {
               rot13:
                 "This is just a Caeser Cipher but with the shift being 13 positions.",
               vigenere:
-                "This is a Polyalphabetic cipher. It uses a keyword, where each letter tells how much to shift the corresponding plain text. Kindamlike multiple Caeser ciphers.",
+                "This is a Polyalphabetic cipher. It uses a keyword, where each letter tells how much to shift the corresponding plain text. Kinda like multiple Caeser ciphers.",
               atbash:
                 "The Atbash Cipher reverses the alphabet completely. A becomes Z and vice-versa. B becomes Y and vice-cersa etc.",
             };
